@@ -1,7 +1,3 @@
-Aqui vai o README do projeto de marketing, no mesmo padrão 👇
-
----
-
 # 📊 Dashboard de Marketing — Power BI
 
 ## 📌 Sobre o Projeto
