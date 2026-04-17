@@ -86,12 +86,6 @@ Análise de comportamento do cliente e distribuição de avaliações.
 
 ---
 
-## 📸 Preview do Dashboard
-
-*(Adicione aqui imagens das páginas do dashboard)*
-
----
-
 ## 🚀 Sobre o Projeto
 
 Este projeto foi desenvolvido com foco em boas práticas de BI, incluindo modelagem adequada, separação de granularidade e construção de métricas confiáveis para análise de negócio.
