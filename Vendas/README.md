@@ -1,7 +1,3 @@
-Aqui vai um **README pronto**, direto pra você usar no GitHub 👇
-
----
-
 # 📊 Dashboard de Vendas — Power BI
 
 ## 📌 Sobre o Projeto
